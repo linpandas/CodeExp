@@ -12,3 +12,5 @@ for r in range(len(s)):
         result = s[l-1:r]
         
 result
+
+
