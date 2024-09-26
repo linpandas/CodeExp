@@ -1,3 +1,7 @@
+# CodeStack
+
+> **心在远方，路在脚下；仰望星空，脚踏实地。**
+
 本项目包含了我刷过的LeetCode题、面试常考题，大部分题目由python求解，记录在此以便复习。
 
 LeetCode题在[LeetCode](/LeetCode/)下，里面不分题型地保存了我刷过的LeetCode题。
